@@ -24,4 +24,4 @@ If you’d like to explore or modify the website locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/<maryamingg>/<microbiology>.git
